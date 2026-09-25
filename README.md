@@ -85,7 +85,6 @@ sudoku-django-webapp/
 cd sudoku-django-webapp
 
 # 2. Activate the virtual environment (Django is in .virtualenvs/)
-"C:\Users\kunal\.virtualenvs\flask-react-assessment-kunal-imsec-tidzie7t\Scripts\Activate.ps1"
 
 # 3. Install dependencies
 pip install -r requirements.txt
